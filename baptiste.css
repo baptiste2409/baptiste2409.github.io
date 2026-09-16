@@ -1,0 +1,8 @@
+.image-transparente {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.image-transparente:hover {
+  opacity: 0.5; /* L'image passera à 50% de transparence au survol */
+}
